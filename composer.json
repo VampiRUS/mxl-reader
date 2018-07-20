@@ -1,0 +1,19 @@
+{
+    "name": "vampirus/mxl-reader",
+    "description": "MOXCEL reader for PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nikolay Kravtsov",
+            "email": "vamp1rus@yandex.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "VampiRUS\\MxlReader\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
